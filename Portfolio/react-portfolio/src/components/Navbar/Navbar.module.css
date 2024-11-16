@@ -1,4 +1,4 @@
-@import "../../vars.css"
+@import "/react-portfolio/src/vars.css";
 
 .navbar {
     position: relative;
